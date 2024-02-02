@@ -23,6 +23,7 @@ public class ShapeFactory {
         } else if (shapeType.equalsIgnoreCase("Square")) {
             return new Square();
         }
+
         return null;
     }
 }

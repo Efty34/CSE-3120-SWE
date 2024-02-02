@@ -11,7 +11,7 @@ public class FactoryPattern {
         System.out.println(z.hashCode());
         
         ShapeFactory shapeFactory = ShapeFactory.getInstance();
-        Shape rectangle = shapeFactory.getShape("Rectangle");
+        Shape rectangle = shapeFactory.getShape("Cricle");
         rectangle.draw();
         Shape square = shapeFactory.getShape("Square");
         square.draw();
