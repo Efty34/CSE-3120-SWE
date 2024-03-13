@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lab-5/CityList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab-5/CityList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab-5/Lab_Task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab-5/Lab_Task/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab-6/Task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lab-6/Task/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Bridge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Bridge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mine/Design Pattern/Singleton/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
